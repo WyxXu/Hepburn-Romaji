@@ -14,9 +14,13 @@
 
 字體以 フロップデザインフォント（flopdesignfont）的 モボ フォント 為基礎，增加了假名缺字。
 
-源字體發佈地址：  モボ フォントset（Bold、SemiBold、Regular、ExtraLight） - フロップデザインフォント - https://flopdesign.booth.pm/items/4647262
+源字體發佈地址：  モボ フォントset - フロップデザインフォント - https://flopdesign.booth.pm/items/4647262
 
-也會在庫裏面放一份。
+MOBO是原字體，MOBORE是我改的字體，我不知道改這個名字是否算違反了OFL協議。
+
+源字體也會在庫裏面放一份，以保留修改前的字體底本。如果需要原字體的話還是請到原作者的發佈頁下載。
+
+
 
 字體效果演示：
 
@@ -92,6 +96,8 @@ line-height: 1.5em !important;
 ** ![image](https://github.com/WyxXu/MOBO-Hepburn-Romaji/assets/108942702/27c6b698-650e-4ce4-be30-aba118e1b87a)
 * unicode 值四位數以上的字符在多數平臺顯示都可能出問題， 比如や𛀆1B006ゆ𛀁1B121よ ヤ𛄠1B120ユ𛄡1B001ヨ
 
+
+第一次做字體，邊學邊做，有很多不成熟的地方。感謝字體群群主懶懶在字體知識方面的指導。
 
 後續考慮製作其它文種的，比如愛爾蘭文和天城文。
 接下來沒餓死，有閑功夫的話再説。

@@ -1,4 +1,4 @@
-# MOBO-Hepburn-Romaji 黑本発音モボ
+# Hepburn-Romaji 黑本ローマ字
 
 
 
@@ -16,7 +16,7 @@
 
 源字體發佈地址：  モボ フォントset - フロップデザインフォント - https://flopdesign.booth.pm/items/4647262
 
-MOBO是原字體，MOBORE是我改的字體，我不知道改這個名字是否算違反了OFL協議。
+MOBO是原字體，HepburneRomaji是我改的字體。
 
 源字體也會在庫裏面放一份，以保留修改前的字體底本。如果需要原字體的話還是請到原作者的發佈頁下載。
 
